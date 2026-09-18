@@ -11,3 +11,17 @@ I'm Stan Shih (Po-Han Shih), an AI Product Developer and AI Agent Builder in Tai
 - **[ClaudePulse for Windows](https://github.com/stantheman0128/claudepulse-win)** — I maintain the Windows version of ClaudePulse. See the repository for the original project and attribution. [Website case study](https://stan-shih.com/work/claudepulse).
 
 I share AI development experiments and notes on [Threads](https://www.threads.com/@stantheman_0128). My [portfolio](https://stan-shih.com/) connects the projects and their background.
+
+## Software and open-source contributions
+
+Browse my [software directory](https://stan-shih.com/software) for published apps, browser extensions, developer tools, source links, and release status.
+
+I also contribute fixes to upstream open-source projects. Selected merged pull requests:
+
+- [Apache Kafka #23154](https://github.com/apache/kafka/pull/23154) — keep the classic consumer polling during an authentication test so the group handshake can complete under load.
+- [Ray #65286](https://github.com/ray-project/ray/pull/65286) — sanitize Windows-reserved characters in Ray Tune trial directory names.
+- [OpenWhispr #2031](https://github.com/OpenWhispr/openwhispr/pull/2031) — handle apostrophes in Windows paths used by the PowerShell archive-extraction fallback.
+
+[Open-source contribution evidence (English)](https://stan-shih.com/open-source) · [開源貢獻與合併紀錄（繁體中文）](https://stan-shih.com/zh/open-source)
+
+The linked pull requests document the changes, review, testing, and any AI-assistance disclosures. These examples describe contributions, not project-maintainer roles or endorsements.
