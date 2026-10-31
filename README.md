@@ -27,3 +27,7 @@ I also contribute fixes to upstream open-source projects. Selected merged pull r
 [Open-source contribution evidence (English)](https://stan-shih.com/open-source) · [開源貢獻與合併紀錄（繁體中文）](https://stan-shih.com/zh/open-source)
 
 The linked pull requests document the changes, review, testing, and any AI-assistance disclosures. These examples describe contributions, not project-maintainer roles or endorsements.
+
+## Earlier work
+
+I am listed as the inventor of a travel collision-warning system: [US10699576B1](https://patents.google.com/patent/US10699576B1/en) records my name as Po-Han Shih, and [TWM578665U](https://patents.google.com/patent/TWM578665U/zh) records it as 施博瀚. These links identify the inventor; they do not claim current patent ownership or endorsement by citing companies.
