@@ -2,10 +2,12 @@
 
 I'm Stan Shih (Po-Han Shih), an AI Product Developer and AI Agent Builder in Taiwan. I build AI agents, Android apps, and developer tools.
 
-[Personal website](https://stan-shih.com/) · [Threads](https://www.threads.com/@stantheman_0128) · [LinkedIn](https://www.linkedin.com/in/po-han-stan-shih-39b713277/)
+[Personal website](https://stan-shih.com/) · [施博瀚：中文介紹](https://stan-shih.com/zh/about) · [Threads](https://www.threads.com/@stantheman_0128) · [LinkedIn](https://www.linkedin.com/in/po-han-stan-shih-39b713277/)
 
 ## Selected work
 
+- **[LINE Stickers for Codex](https://github.com/stantheman0128/line-codex-stickers)** — Local Windows integration scripts for a sticker picker in Codex desktop; no app or sticker artwork is bundled. [English case study](https://stan-shih.com/work/line-codex-stickers) · [中文介紹](https://stan-shih.com/zh/work/line-codex-stickers).
+- **[Stan Mic Bridge](https://github.com/stantheman0128/stan-mic-bridge)** — Native Mac microphone sender and Windows receiver over a private Tailscale connection.
 - **[Antnest Chatbot](https://github.com/stantheman0128/antnest-chatbot)** — AI chatbot project. [Website case study](https://stan-shih.com/work/antnest-chatbot).
 - **[Notify+](https://github.com/stantheman0128/line-notify-plus)** — Android notification app, published on [Google Play](https://play.google.com/store/apps/details?id=com.stanslab.linenotify). [Website case study](https://stan-shih.com/work/notify-plus).
 - **[ClaudePulse for Windows](https://github.com/stantheman0128/claudepulse-win)** — I maintain the Windows version of ClaudePulse. See the repository for the original project and attribution. [Website case study](https://stan-shih.com/work/claudepulse).
